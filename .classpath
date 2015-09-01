@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="src" path="src/com/coolweather"/>
+=======
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+>>>>>>> 8f07e7abbe90afb6f178963ecb9826dfb17cb846
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
